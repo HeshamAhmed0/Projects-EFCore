@@ -25,6 +25,7 @@ namespace Courses.DbContexts
                         .HasForeignKey(C => C.CourseStudentId);
         }
         public DbSet<Student> Students { get; set; }
+
         public DbSet<Course> Courses { get; set; }
     }
 }
