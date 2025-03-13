@@ -19,10 +19,18 @@ namespace Courses
             string  Name = Console.ReadLine();
             Console.Write("Enter Student Course : ");
             string  StudentCourse = Console.ReadLine();
+            Console.Write("Enter Your Email Addres : ");
+            string Email = Console.ReadLine();
+            Console.Write("Enter PhoneNumber : ");
+            string PhoneNumber = Console.ReadLine();
+
             
             Student NewStudent = new Student()
             {
                 StudentName = Name,
+                Email=Email,
+                PhoneAttribute=PhoneNumber,
+
                 CourseNameOfStudent=new Course
                 {
                     CourseName=StudentCourse,

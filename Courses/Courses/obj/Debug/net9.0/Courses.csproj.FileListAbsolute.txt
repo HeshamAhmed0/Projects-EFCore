@@ -146,3 +146,4 @@ D:\Projects EFCore\Project01\Courses\Courses\obj\Debug\net9.0\refint\Courses.dll
 D:\Projects EFCore\Project01\Courses\Courses\obj\Debug\net9.0\Courses.pdb
 D:\Projects EFCore\Project01\Courses\Courses\obj\Debug\net9.0\Courses.genruntimeconfig.cache
 D:\Projects EFCore\Project01\Courses\Courses\obj\Debug\net9.0\ref\Courses.dll
+D:\Projects EFCore\Project01\Courses\Courses\obj\Debug\net9.0\Courses.sourcelink.json
