@@ -15,5 +15,11 @@ namespace Courses.Models
         public string CourseName { get; set; }
       
         public ICollection<Student> Students { get; set; }
+        public override string ToString()
+        {
+            return $"CourseId = {CourseId} && CourseName = {CourseName} ";
+        }
+      
     }
+    
 }

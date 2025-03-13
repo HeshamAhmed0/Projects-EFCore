@@ -18,7 +18,16 @@ namespace Courses.Models
 
         [EmailAddress]
         public string Email { get; set; }
+
+
         public int CourseStudentId { get; set; }
         public Course CourseNameOfStudent { get; set; }
     }
+    //public void GetName()
+    //    {
+    //        public int Id { get; set; }
+    //    public string Name { get; set; }
+    //    public Course CourseName { get; set; }
+
+    //}
 }
