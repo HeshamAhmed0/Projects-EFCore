@@ -23,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Courses\\Migrations\\20250313021954_ApplyRelationShip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects EFCore\\Project01\\Courses\\Courses\\Migrations\\20250313030002_ApplyRelationShips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Courses\\Migrations\\20250313030002_ApplyRelationShips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F2D1B7E-01C4-49A3-AE77-5D2349727309}|Courses\\Courses.csproj|d:\\projects efcore\\project01\\courses\\courses\\configrations\\courseconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F2D1B7E-01C4-49A3-AE77-5D2349727309}|Courses\\Courses.csproj|solutionrelative:courses\\configrations\\courseconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,12 +39,16 @@
       "RelativeMoniker": "D:0:0:{7F2D1B7E-01C4-49A3-AE77-5D2349727309}|Courses\\Courses.csproj|solutionrelative:courses\\courses.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects EFCore\\Project01\\Courses\\Courses\\Migrations\\20250313022431_Create Students  And Courses Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Courses\\Migrations\\20250313022431_Create Students  And Courses Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects EFCore\\Project01\\Courses\\Courses\\Migrations\\20250313022254_ApplyRelationShip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Courses\\Migrations\\20250313022254_ApplyRelationShip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2D1B7E-01C4-49A3-AE77-5D2349727309}|Courses\\Courses.csproj|d:\\projects efcore\\project01\\courses\\courses\\migrations\\20250313030002_applyrelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2D1B7E-01C4-49A3-AE77-5D2349727309}|Courses\\Courses.csproj|solutionrelative:courses\\migrations\\20250313030002_applyrelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2D1B7E-01C4-49A3-AE77-5D2349727309}|Courses\\Courses.csproj|d:\\projects efcore\\project01\\courses\\courses\\migrations\\20250313022431_create students  and courses table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2D1B7E-01C4-49A3-AE77-5D2349727309}|Courses\\Courses.csproj|solutionrelative:courses\\migrations\\20250313022431_create students  and courses table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +62,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "20250313030002_ApplyRelationShips.cs",
               "DocumentMoniker": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\Migrations\\20250313030002_ApplyRelationShips.cs",
               "RelativeDocumentMoniker": "Courses\\Migrations\\20250313030002_ApplyRelationShips.cs",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "Courses\\Migrations\\20250313030002_ApplyRelationShips.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:00:02.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T03:00:02.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20250313022431_Create Students  And Courses Table.cs",
               "DocumentMoniker": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\Migrations\\20250313022431_Create Students  And Courses Table.cs",
               "RelativeDocumentMoniker": "Courses\\Migrations\\20250313022431_Create Students  And Courses Table.cs",
@@ -83,12 +82,11 @@
               "RelativeToolTip": "Courses\\Migrations\\20250313022431_Create Students  And Courses Table.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T02:24:31.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T02:24:31.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "20250313022254_ApplyRelationShip.cs",
               "DocumentMoniker": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\Migrations\\20250313022254_ApplyRelationShip.cs",
               "RelativeDocumentMoniker": "Courses\\Migrations\\20250313022254_ApplyRelationShip.cs",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "Courses\\Migrations\\20250313022254_ApplyRelationShip.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T02:22:54.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T02:22:54.602Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "Courses\\Migrations\\20250313021954_ApplyRelationShip.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T02:19:54.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T02:19:54.572Z"
             },
             {
               "$type": "Document",
@@ -118,16 +114,16 @@
               "Title": "StudentCourses.cs",
               "DocumentMoniker": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\StudentCourses.cs",
               "RelativeDocumentMoniker": "Courses\\StudentCourses.cs",
-              "ToolTip": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\StudentCourses.cs*",
-              "RelativeToolTip": "Courses\\StudentCourses.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBsAAAAtAAAAAAAAAA==",
+              "ToolTip": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\StudentCourses.cs",
+              "RelativeToolTip": "Courses\\StudentCourses.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T01:33:00.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CourseConfigration.cs",
               "DocumentMoniker": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\Configrations\\CourseConfigration.cs",
               "RelativeDocumentMoniker": "Courses\\Configrations\\CourseConfigration.cs",
@@ -135,25 +131,23 @@
               "RelativeToolTip": "Courses\\Configrations\\CourseConfigration.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:23:17.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T00:23:17.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Courses",
+              "DocumentIndex": 8,
+              "Title": "Courses.csproj",
               "DocumentMoniker": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\Courses.csproj",
               "RelativeDocumentMoniker": "Courses\\Courses.csproj",
               "ToolTip": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\Courses.csproj",
               "RelativeToolTip": "Courses\\Courses.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-13T00:10:40.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T00:10:40.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "CoursesDbContext.cs",
               "DocumentMoniker": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\DbContexts\\CoursesDbContext.cs",
               "RelativeDocumentMoniker": "Courses\\DbContexts\\CoursesDbContext.cs",
@@ -161,12 +155,11 @@
               "RelativeToolTip": "Courses\\DbContexts\\CoursesDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:58:46.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T23:58:46.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "StudentConfigration.cs",
               "DocumentMoniker": "D:\\Projects EFCore\\Project01\\Courses\\Courses\\Configrations\\StudentConfigration.cs",
               "RelativeDocumentMoniker": "Courses\\Configrations\\StudentConfigration.cs",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "Courses\\Configrations\\StudentConfigration.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:57:52.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T23:57:52.102Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "Courses\\Models\\Student.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:56:57.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T23:56:57.832Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "Courses\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:53:28.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T23:53:28.317Z"
             },
             {
               "$type": "Document",
@@ -213,8 +203,7 @@
               "RelativeToolTip": "Courses\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:53:03.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T23:53:03.376Z"
             }
           ]
         }
